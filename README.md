@@ -1,5 +1,3 @@
-# New-BankBot
-
 # 🏦 BankBot - Secure AI Banking Assistant
 
 A fully offline, local banking chatbot built with Streamlit and Ollama that strictly answers only banking-related queries. Features include authentication, file upload with OCR, chat history management, and theme customization.
