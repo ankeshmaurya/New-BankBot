@@ -11,7 +11,6 @@ A fully offline, local banking chatbot built with Streamlit and Ollama that stri
 - **File Upload & Context Awareness**: Upload `.txt`, `.pdf`, `.docx`, and images with OCR support
 - **Chat History Management**: Save, load, and delete previous conversations
 - **Light/Dark Theme**: Professional UI with theme toggle
-- **Voice Input Ready**: Upload audio files for transcription (requires external service)
 - **Fully Offline**: Runs entirely on your local machine using Ollama
 
 ---
