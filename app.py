@@ -219,7 +219,7 @@ def init_session_state():
     if 'file_name' not in st.session_state:
         st.session_state.file_name = ""
     if 'theme' not in st.session_state:
-        st.session_state.theme = "light"
+        st.session_state.theme = "dark"
     if 'temperature' not in st.session_state:
         st.session_state.temperature = 0.7
     if 'max_tokens' not in st.session_state:
